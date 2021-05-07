@@ -10,16 +10,3 @@ $(document).ready(function () {
   });
 });
 
-const x = 12;
-x = 13;
-x += 1;
-console.log(x);
-
-const dog = {
-  name: 'Droppy'
-  white: true,
-}
-
-const cat ={
-  color:'white';
-}
